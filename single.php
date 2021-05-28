@@ -1,0 +1,1 @@
+Trang chi tiết bà viết  single.php
